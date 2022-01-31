@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bugra</h1>
-<h3 align="center">Industrail Engineer, Data Scientist </h3>
+<h3 align="center">Industrial Engineer from Bogazici University, Data Scientist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugrataksuk&label=Profile%20views&color=0e75b6&style=flat" alt="bugrataksuk" /> </p>
 
