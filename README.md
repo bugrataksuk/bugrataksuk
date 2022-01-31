@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Neural Networks and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bugrataksuk/portfolio](https://github.com/bugrataksuk/portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/bugrataksuk/portfolio](https://github.com/bugrataksuk)
 
 - 📝 I regularly write articles on [https://medium.com/@bugra-taksuk](https://medium.com/@bugra-taksuk)
 
