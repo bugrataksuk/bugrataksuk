@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ahmet.bugra.taksuk@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/bu%C4%9Fra-taksuk-705740149/](https://www.linkedin.com/in/bu%C4%9Fra-taksuk-705740149/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/bu%C4%9Fra-taksuk-705740149/](https://www.linkedin.com/in/bugra-taksuk-705740149/)
 
 
 
