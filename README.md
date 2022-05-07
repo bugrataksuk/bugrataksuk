@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugrataksuk&label=Profile%20views&color=0e75b6&style=flat" alt="bugrataksuk" /> </p>
 
-- 🔭 I’m currently working at **B/S/H**
+- 🔭 I’m currently working at **Trendyol**
 
 - 🌱 I’m currently learning **Neural Networks and Deep Learning**
 
