@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Trendyol**
 
-- 🌱 I’m currently learning **Neural Networks and Deep Learning**
+- 🌱 I’m currently learning **Recommendation Systems*
 
 - 👨‍💻 All of my projects are available at [https://github.com/bugrataksuk](https://github.com/bugrataksuk)
 
