@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@bugra-taksuk](https://medium.com/@bugra-taksuk)
 
-- 💬 Ask me about **Machine Learning, Time Series Classification, Forecasting and Neural Networks**
+- 💬 Ask me about **Machine Learning, Time Series Classification, Forecasting, Neural Networks and Recommender Systems**
 
 - 📫 How to reach me **ahmet.bugra.taksuk@gmail.com**
 
